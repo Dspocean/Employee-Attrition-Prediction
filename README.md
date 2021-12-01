@@ -6,4 +6,4 @@ Dataset URL: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dat
 •	Carried out Data Preprocessing & EDA to recognized various patterns in the data. 
 •	As it is binary classification dataset, for prediction implemented classification Algorithms.
 •	Resolved class Imbalance problem via SMOTE Upsampling Technique.
-•	Logistic Regression is the best fit model with the highest accuracy 89.1%.
+•	Achieved the highest accuracy of 89.1% using Logistic Regression.
